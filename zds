@@ -1,0 +1,16 @@
+<html>
+<head>
+  <title>Web Font Sample</title>
+  <style type="text/css" media="screen, print">
+    @font-face {
+      font-family: "chrisMaster";
+      src: url("https://github.com/0nirique/onirique.git");
+    }
+
+    body { font-family: "chrisMaster", serif }
+  </style>
+</head>
+<body>
+  This is Bitstream Vera Serif Bold.
+</body>
+</html>
